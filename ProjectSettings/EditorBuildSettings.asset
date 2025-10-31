@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Command Centre.unity
+    guid: e05fb1e31ea1f45368897c548e60ef80
+  - enabled: 1
+    path: Assets/Scenes/Core Nexus.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Frog Land.unity
+    guid: 6caf19241dc484a08b130e58172045d2
+  - enabled: 1
+    path: Assets/Scenes/Quadrant Room.unity
+    guid: 8da6ae6a01d34445bb4ea662432ec65d
+  - enabled: 1
+    path: Assets/Scenes/Celestial Corridor.unity
+    guid: 4d46e57eec56d4137b27f63b761c0a54
+  - enabled: 1
+    path: Assets/Scenes/Narrow Passage.unity
+    guid: b1db7161b77954a79a3ac474d195c28d
+  - enabled: 1
+    path: Assets/Scenes/WeaponLike Room.unity
+    guid: bbf862a37442642738bba45455eaf310
+  - enabled: 1
+    path: Assets/Scenes/Dumbell Paradise.unity
+    guid: af6b9d277e50e47c0bea8b52558d17b4
+  - enabled: 1
+    path: Assets/Scenes/Trail Of Echoes.unity
+    guid: e85df322c37924a9a89344ee52221b9d
+  - enabled: 1
+    path: Assets/Scenes/Separate Pathway.unity
+    guid: 2ea416d8925bf444da570724e7bc480f
+  - enabled: 1
+    path: Assets/Scenes/Endgame Nexus.unity
+    guid: 125224b8ac45c47078e6a6aab1d4b7f6
+  m_configObjects: {}
